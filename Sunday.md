@@ -1,3 +1,3 @@
 # Demo
 
-hello am using git !!
+hello am learning how to use git commands
